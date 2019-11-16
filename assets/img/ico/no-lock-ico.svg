@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="28px" viewBox="0 0 35 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>No Lock-in</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="22.7197266%" y1="12.0214844%" x2="69.3115234%" y2="86.0888672%" id="linearGradient-1">
+            <stop stop-color="#7093FF" offset="0%"></stop>
+            <stop stop-color="#3D5AFE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#7093FF" offset="0%"></stop>
+            <stop stop-color="#3D5AFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Only-testim" transform="translate(-667.000000, -382.000000)">
+            <g id="No-Lock-in" transform="translate(667.269484, 382.000000)">
+                <path d="M17.7305163,0 C21.0442248,0 23.7305163,2.6862915 23.7305163,6 L23.7305163,16 C23.7305163,19.3137085 21.0442248,22 17.7305163,22 C14.4168078,22 11.7305163,19.3137085 11.7305163,16 L11.7305163,6 C11.7305163,2.6862915 14.4168078,0 17.7305163,0 Z M17.7305163,4 C16.6259468,4 15.7305163,4.8954305 15.7305163,6 L15.7305163,16 C15.7305163,17.1045695 16.6259468,18 17.7305163,18 C18.8350858,18 19.7305163,17.1045695 19.7305163,16 L19.7305163,6 C19.7305163,4.8954305 18.8350858,4 17.7305163,4 Z" id="Rectangle" fill="#1B2331" fill-rule="nonzero"></path>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="17.7305163" cy="17" r="9"></circle>
+                <path d="M17.7305163,14 C18.8350858,14 19.7305163,14.8954305 19.7305163,16 C19.7305163,16.7398375 19.3288009,17.3858493 18.7315938,17.7318119 L18.7305163,19 C18.7305163,19.5522847 18.282801,20 17.7305163,20 C17.1782315,20 16.7305163,19.5522847 16.7305163,19 L16.7304438,17.7323937 C16.1326824,17.3865739 15.7305163,16.7402524 15.7305163,16 C15.7305163,14.8954305 16.6259468,14 17.7305163,14 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                <polygon id="Path-2" fill="#FFFFFF" fill-rule="nonzero" points="30.7299805 1.03168654 4.97379915e-14 26.1161592 1.40400303 27.5405101 32.1339835 2.45603744"></polygon>
+                <polygon id="Path-2-Copy-2" fill="url(#linearGradient-2)" fill-rule="nonzero" points="33.119482 1.43258269 2.38950152 26.5170553 3.79350455 27.9414063 34.523485 2.85693359"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

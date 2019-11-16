@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="73px" viewBox="0 0 69 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>gift-ico</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="21.6026045%" x2="18.3948864%" y2="74.3890553%" id="linearGradient-1">
+            <stop stop-color="#EAECEE" offset="0%"></stop>
+            <stop stop-color="#D1D4D8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="22.7197266%" y1="27.5275055%" x2="69.3115234%" y2="71.3543593%" id="linearGradient-2">
+            <stop stop-color="#7093FF" offset="0%"></stop>
+            <stop stop-color="#3D5AFE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M29.3051912,0.655889048 C32.7735293,1.70384825 35.3384655,8.15188523 37,20 L18.9261969,19.9732762 L12.2695044,14.3876927 C9.86667349,11.8302589 10.8747778,8.86171956 15.2938173,5.48207462 C21.9223767,0.412607214 24.708108,-0.992603689 29.3051912,0.655889048 Z" id="path-3"></path>
+        <filter x="-67.3%" y="-47.5%" width="234.6%" height="275.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M50.3053378,0.656258749 C54.2395188,1.70480865 56.8044062,8.1527224 58,20 L39.9142119,19.9750769 L33.2695146,14.3958025 C30.8666644,11.8369272 31.8747768,8.86671459 36.2938517,5.48516467 C42.9224641,0.412839786 45.7082177,-0.993163184 50.3053378,0.656258749 Z" id="path-5"></path>
+        <filter x="-67.3%" y="-47.5%" width="234.6%" height="275.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Careers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="careers" transform="translate(-540.000000, -1365.000000)">
+            <g id="gift-ico" transform="translate(540.000000, 1366.000000)">
+                <path d="M64,36 L64,67.25 C64,69.8733526 61.8733526,72 59.25,72 L9.75,72 C7.12664744,72 5,69.8733526 5,67.25 L5,36 L4.75,36 C2.12664744,36 -3.23144565e-15,33.8733526 0,31.25 L0,24.75 C-3.21268032e-16,22.1266474 2.12664744,20 4.75,20 L64.25,20 C66.8733526,20 69,22.1266474 69,24.75 L69,31.25 C69,33.8733526 66.8733526,36 64.25,36 L64,36 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <path d="M40,47.15 L40,72 L29,72 L29,47.15 L5,47.15 L5,36.15 L29,36.15 L29,20 L40,20 L40,36.15 L64,36.15 L64,47.15 L40,47.15 Z" id="Combined-Shape" fill="#3D5AFE"></path>
+                <g id="Path-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <g id="Path-2-Copy-2" transform="translate(45.000000, 10.000000) scale(-1, 1) translate(-45.000000, -10.000000) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

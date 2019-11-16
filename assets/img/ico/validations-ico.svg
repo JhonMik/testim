@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="63px" viewBox="0 0 69 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>validations-ico</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="30.6067511%" y2="92.9424157%" id="linearGradient-1">
+            <stop stop-color="#EAECEE" offset="0%"></stop>
+            <stop stop-color="#D1D4D8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="22.7197266%" y1="21.3337465%" x2="69.3115234%" y2="77.2399434%" id="linearGradient-2">
+            <stop stop-color="#7093FF" offset="0%"></stop>
+            <stop stop-color="#3D5AFE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M43.2,13.6 C53.3620394,13.6 61.6,21.8379606 61.6,32 C61.6,42.1620394 53.3620394,50.4 43.2,50.4 C35.367956,50.4 28.6788201,45.5066283 26.0231338,38.6104264 L19.7942865,33.2088861 C19.7369604,33.1591827 19.6832424,33.1054647 19.633539,33.0481386 C19.0546681,32.3804893 19.1266372,31.3699849 19.7942865,30.7911139 L19.7942865,30.7911139 L26.0223664,25.3915668 C28.6775313,18.4943146 35.3672014,13.6 43.2,13.6 Z" id="path-3"></path>
+        <filter x="-31.9%" y="-20.4%" width="163.7%" height="173.4%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product_2" transform="translate(-540.000000, -2096.000000)">
+            <g id="validations-ico" transform="translate(540.000000, 2096.000000)">
+                <path d="M7.61290323,0 L33.3548387,0 L33.3548387,0 L47,12.75 L47,52.3870968 C47,56.5915871 43.5915871,60 39.3870968,60 L7.61290323,60 C3.40841287,60 2.2912584e-15,56.5915871 0,52.3870968 L0,7.61290323 C-5.14901565e-16,3.40841287 3.40841287,7.72352348e-16 7.61290323,0 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <path d="M39.6911463,30.5381056 C39.1691796,29.8250852 38.1680248,29.6702057 37.4550045,30.1921724 C36.7419842,30.7141391 36.5871046,31.7152939 37.1090713,32.4283142 L40.4155888,36.9451046 C40.997708,37.7402947 42.1533933,37.8252644 42.845554,37.1237634 L50.7390365,29.1237634 C51.3596738,28.494751 51.3528844,27.4817098 50.723872,26.8610725 C50.0948596,26.2404353 49.0818184,26.2472246 48.4611811,26.876237 L41.8876021,33.5385223 L39.6911463,30.5381056 Z" id="Path-2-Copy" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

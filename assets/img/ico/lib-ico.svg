@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="57px" viewBox="0 0 64 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>lib-ico</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="0%" x2="-135.807292%" y2="212.310268%" id="linearGradient-1">
+            <stop stop-color="#506791" offset="0%"></stop>
+            <stop stop-color="#000104" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="3.63511414%" x2="-135.807292%" y2="200.509941%" id="linearGradient-2">
+            <stop stop-color="#506791" offset="0%"></stop>
+            <stop stop-color="#000104" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="22.7197266%" y1="12.0214844%" x2="69.3115234%" y2="86.0888672%" id="linearGradient-3">
+            <stop stop-color="#7093FF" offset="0%"></stop>
+            <stop stop-color="#3D5AFE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M5,0 L19,0 C21.7614237,-5.07265313e-16 24,2.23857625 24,5 L24,19 C24,21.7614237 21.7614237,24 19,24 L5,24 C2.23857625,24 2.11453371e-15,21.7614237 0,19 L0,5 C-3.38176876e-16,2.23857625 2.23857625,2.28362215e-15 5,0 Z" id="path-4"></path>
+        <filter x="-56.2%" y="-31.2%" width="212.5%" height="212.5%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.659828453 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product_2" transform="translate(-776.000000, -3206.000000)">
+            <g id="lib-ico" transform="translate(783.000000, 3207.000000)">
+                <path d="M35,0 L49,0 C51.7614237,-5.07265313e-16 54,2.23857625 54,5 L54,19 C54,21.7614237 51.7614237,24 49,24 L35,24 C32.2385763,24 30,21.7614237 30,19 L30,5 C30,2.23857625 32.2385763,2.28362215e-15 35,0 Z" id="Rectangle-Copy-10" fill="url(#linearGradient-1)"></path>
+                <path d="M5,30 L19,30 C21.7614237,30 24,32.2385763 24,35 L24,49 C24,51.7614237 21.7614237,54 19,54 L5,54 C2.23857625,54 2.11453371e-15,51.7614237 0,49 L0,35 C-3.38176876e-16,32.2385763 2.23857625,30 5,30 Z" id="Rectangle-Copy" fill="url(#linearGradient-1)"></path>
+                <path d="M48.3270485,30 C49.9839027,30 51.3270485,31.3431458 51.3270485,33 C51.3270485,33.8372941 50.9771354,34.6364904 50.3618888,35.2044103 L46.337,38.918 L55.4115913,47.3447237 C57.3709695,49.1734767 57.5313765,52.2078306 55.8163559,54.2305557 L55.6552763,54.4115913 C53.7711065,56.4303446 50.6071621,56.5394462 48.5884087,54.6552763 L48.5884087,54.6552763 L38.967,45.721 L35.0348403,49.3524551 C33.8173781,50.4762664 31.9194009,50.4003473 30.7955897,49.1828851 C30.2840511,48.6287183 30,47.9022148 30,47.1480448 L30,33 C30,31.3431458 31.3431458,30 33,30 L48.3270485,30 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

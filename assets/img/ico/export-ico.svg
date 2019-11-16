@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="57px" viewBox="0 0 42 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>export-ico</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="15.2777778%" x2="-135.807292%" y2="162.715464%" id="linearGradient-1">
+            <stop stop-color="#506791" offset="0%"></stop>
+            <stop stop-color="#000104" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="39.3197597%" y1="12.0214844%" x2="57.5604708%" y2="86.0888672%" id="linearGradient-2">
+            <stop stop-color="#7093FF" offset="0%"></stop>
+            <stop stop-color="#3D5AFE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M22.3098611,0.488653206 C22.3817399,0.550948186 22.4490832,0.618291472 22.5113782,0.690170295 L31.1314537,10.6364113 C31.85487,11.4711224 31.7646478,12.7342343 30.9299366,13.4576506 C30.5663118,13.7727921 30.1012588,13.9462724 29.6200756,13.9462724 L25.9999244,13.946 L26,32.9462724 C26,33.4985572 25.5522847,33.9462724 25,33.9462724 L17,33.9462724 C16.4477153,33.9462724 16,33.4985572 16,32.9462724 L15.9999244,13.946 L12.3799244,13.9462724 C11.2753549,13.9462724 10.3799244,13.0508419 10.3799244,11.9462724 C10.3799244,11.4650892 10.5534047,11.0000362 10.8685463,10.6364113 L19.4886218,0.690170295 C20.2120381,-0.144540817 21.47515,-0.234763091 22.3098611,0.488653206 Z" id="path-3"></path>
+        <filter x="-63.6%" y="-22.1%" width="227.1%" height="179.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product_2" transform="translate(-135.000000, -3205.000000)">
+            <g id="export-ico" transform="translate(135.000000, 3206.000000)">
+                <path d="M5,20.9462724 L37,20.9462724 C39.7614237,20.9462724 42,23.1848487 42,25.9462724 L42,50.9462724 C42,53.7076962 39.7614237,55.9462724 37,55.9462724 L5,55.9462724 C2.23857625,55.9462724 3.38176876e-16,53.7076962 0,50.9462724 L0,25.9462724 C-3.38176876e-16,23.1848487 2.23857625,20.9462724 5,20.9462724 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

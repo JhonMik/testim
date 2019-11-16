@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="62px" viewBox="0 0 54 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>loops-ico</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="31.9192218%" y1="12.0214844%" x2="62.7992622%" y2="86.0888672%" id="linearGradient-1">
+            <stop stop-color="#7093FF" offset="0%"></stop>
+            <stop stop-color="#3D5AFE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M25.6,2 C25.6,0.8954305 24.7045695,0 23.6,0 C23.0707356,0 22.5630503,0.209788819 22.1881733,0.583403606 L13.3214569,9.42026578 C12.5731081,10.1660948 12.5386174,11.3571287 13.2194171,12.1439765 L13.3214569,12.2534586 L22.1881733,21.0903207 C22.9705379,21.8700511 24.236866,21.8679156 25.0165964,21.0855511 C25.3902112,20.7106741 25.6,20.2029887 25.6,19.6737244 L25.6,14.7750694 C33.3155937,15.3856833 39.4,21.8323028 39.4,29.6732258 C39.4,32.1514027 38.7938143,34.5425435 37.6558816,36.6343305 C37.4013784,37.1021669 37.4856776,37.6817729 37.862904,38.0577291 L41.804904,41.9864564 C42.3480937,42.5278172 43.252736,42.4277161 43.6644281,41.7806951 C45.9577921,38.1764132 47.2,34.010822 47.2,29.6732258 C47.2,17.6386212 37.8279005,7.7969854 25.9603786,6.99828521 L25.6,6.9768572 L25.6,2 Z" id="path-2"></path>
+        <filter x="-39.2%" y="-17.7%" width="178.3%" height="163.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="29.0528108%" y2="92.9424157%" id="linearGradient-4">
+            <stop stop-color="#EAECEE" offset="0%"></stop>
+            <stop stop-color="#D1D4D8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product_2" transform="translate(-135.000000, -2483.000000)">
+            <g id="loops-ico" transform="translate(135.000000, 2484.000000)">
+                <g id="Path">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <path d="M7.8,31.2732258 C7.8,28.7950489 8.40618565,26.4039081 9.54411844,24.3121211 C9.7986216,23.8442847 9.71432236,23.2646787 9.33709603,22.8887225 L5.39509603,18.9599952 C4.85190632,18.4186345 3.94726401,18.5187355 3.53557187,19.1657565 C1.24220787,22.7700384 0,26.9356296 0,31.2732258 C0,43.4293921 9.56239109,53.3480634 21.6,53.9695944 L21.6,58.9464516 C21.6,60.0510211 22.4954305,60.9464516 23.6,60.9464516 C24.1292644,60.9464516 24.6369497,60.7366628 25.0118267,60.363048 L33.8785431,51.5261858 C34.6268919,50.7803568 34.6613826,49.589323 33.9805829,48.8024751 L33.8785431,48.6929931 L25.0118267,39.8561309 C24.2294621,39.0764005 22.963134,39.078536 22.1834036,39.8609006 C21.8097888,40.2357776 21.6,40.7434629 21.6,41.2727273 L21.6,46.1713822 C13.8844063,45.5607684 7.8,39.1141489 7.8,31.2732258 Z" id="Path" fill="url(#linearGradient-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="78px" viewBox="0 0 77 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>flag-ico</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="22.7197266%" y1="25.6425857%" x2="69.3115234%" y2="73.1454935%" id="linearGradient-1">
+            <stop stop-color="#7093FF" offset="0%"></stop>
+            <stop stop-color="#3D5AFE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M8.56005859,10.3330078 L25.3823242,10.3330078 C27.0391785,10.3330078 28.3823242,11.6761536 28.3823242,13.3330078 L28.3823242,17.7050781 C28.3823242,18.8096476 29.2777547,19.7050781 30.3823242,19.7050781 L59.7247955,19.7050781 C60.829365,19.7050781 61.7247955,20.6005086 61.7247955,21.7050781 C61.7247955,22.2355111 61.5140819,22.7442189 61.1390091,23.1192917 L46.9106445,37.3476563 L62.0650345,52.5020462 C62.8460831,53.2830948 62.8460831,54.5494247 62.0650345,55.3304733 C61.6899617,55.7055461 61.1812539,55.9162598 60.6508209,55.9162598 L31.3823242,55.9162598 C29.72547,55.9162598 28.3823242,54.573114 28.3823242,52.9162598 L28.3823242,48.8989258 C28.3823242,47.7943563 27.4868937,46.8989258 26.3823242,46.8989258 L8.56005859,46.8989258 L8.56005859,10.3330078 Z" id="path-2"></path>
+        <filter x="-40.4%" y="-28.5%" width="175.8%" height="200.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="49.3903335%" y2="92.9424157%" id="linearGradient-4">
+            <stop stop-color="#EAECEE" offset="0%"></stop>
+            <stop stop-color="#D1D4D8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Careers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="careers" transform="translate(-132.000000, -1366.000000)">
+            <g id="flag-ico" transform="translate(135.000000, 1366.000000)">
+                <g id="Path-4">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <rect id="Rectangle" fill="url(#linearGradient-4)" x="0" y="0" width="10" height="72" rx="5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>choice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7093FF" offset="0%"></stop>
+            <stop stop-color="#3D5AFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Only-testim" transform="translate(-60.000000, -182.000000)">
+            <g id="choice" transform="translate(62.000000, 182.000000)">
+                <rect id="Rectangle" fill="#1B2331" x="7" y="0" width="19" height="19" rx="3"></rect>
+                <rect id="Rectangle-Copy-13" stroke="#FFFFFF" stroke-width="2" fill="url(#linearGradient-1)" x="-1" y="5" width="22" height="22" rx="3"></rect>
+                <path d="M11,11 L11,15 L15,15 L15,17 L11,17 L11,21 L9,21 L9,16.999 L5,17 L5,15 L9,14.999 L9,11 L11,11 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

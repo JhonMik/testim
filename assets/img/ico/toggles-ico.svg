@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>flexibility</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7093FF" offset="0%"></stop>
+            <stop stop-color="#3D5AFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Only-testim" transform="translate(-63.000000, -383.000000)">
+            <g id="flexibility" transform="translate(63.000000, 383.000000)">
+                <rect id="Rectangle" fill="#1B2331" x="2" y="0" width="3" height="7" rx="1.5"></rect>
+                <rect id="Rectangle-Copy-28" fill="#1B2331" x="20" y="0" width="3" height="9" rx="1.5"></rect>
+                <path d="M21.5,15 C22.3284271,15 23,15.6715729 23,16.5 L23,22.5 C23,23.3284271 22.3284271,24 21.5,24 C20.6715729,24 20,23.3284271 20,22.5 L20,16.5 C20,15.6715729 20.6715729,15 21.5,15 Z" id="Rectangle-Copy-31" fill="#1B2331"></path>
+                <path d="M12.5,15 C13.3284271,15 14,15.6715729 14,16.5 L14,22.5 C14,23.3284271 13.3284271,24 12.5,24 C11.6715729,24 11,23.3284271 11,22.5 L11,16.5 C11,15.6715729 11.6715729,15 12.5,15 Z" id="Rectangle-Copy-24" fill="#1B2331"></path>
+                <path d="M12.5,0 C13.3284271,-1.52179594e-16 14,0.671572875 14,1.5 L14,9.5 C14,10.3284271 13.3284271,11 12.5,11 C11.6715729,11 11,10.3284271 11,9.5 L11,1.5 C11,0.671572875 11.6715729,1.52179594e-16 12.5,0 Z" id="Rectangle-Copy-27" fill="#1B2331"></path>
+                <path d="M3.5,13 C4.32842712,13 5,13.6715729 5,14.5 L5,22.5 C5,23.3284271 4.32842712,24 3.5,24 C2.67157288,24 2,23.3284271 2,22.5 L2,14.5 C2,13.6715729 2.67157288,13 3.5,13 Z" id="Rectangle-Copy-21" fill="#1B2331"></path>
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="4" width="7" height="7" rx="2"></rect>
+                <rect id="Rectangle-Copy-29" fill="url(#linearGradient-1)" x="18" y="6" width="7" height="7" rx="2"></rect>
+                <rect id="Rectangle-Copy-25" fill="url(#linearGradient-1)" x="9" y="13" width="7" height="7" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

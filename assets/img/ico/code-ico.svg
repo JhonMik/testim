@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="60px" viewBox="0 0 61 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>code-ico</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="1.62590701%" x2="18.3948864%" y2="91.5460082%" id="linearGradient-1">
+            <stop stop-color="#EAECEE" offset="0%"></stop>
+            <stop stop-color="#D1D4D8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="22.7197266%" y1="36.5729718%" x2="69.3115234%" y2="62.7589567%" id="linearGradient-2">
+            <stop stop-color="#7093FF" offset="0%"></stop>
+            <stop stop-color="#3D5AFE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M12.4687259,28.8912308 L22.0793638,19.4626593 C22.6750606,18.8782475 23.6239859,18.847489 24.2568647,19.3703838 L24.3593033,19.4626593 L26.6017855,21.6626593 C27.1938603,22.2435177 27.2250222,23.1637716 26.695271,23.7803558 L26.6017855,23.8801978 L20.3638094,30 L26.6017855,36.1198022 C27.1938603,36.7006606 27.2250222,37.6209144 26.695271,38.2374986 L26.6017855,38.3373407 L24.3593033,40.5373407 C23.7636065,41.1217525 22.8146813,41.152511 22.1818025,40.6296162 L22.0793638,40.5373407 L12.4687259,31.1087692 C11.8766511,30.5279109 11.8454893,29.607657 12.3752404,28.9910728 L12.4687259,28.8912308 L22.0793638,19.4626593 L12.4687259,28.8912308 Z M38.9206362,19.4626593 L48.5312741,28.8912308 C49.156242,29.5043591 49.156242,30.4956409 48.5312741,31.1087692 L38.9206362,40.5373407 C38.2918451,41.1542198 37.2694878,41.1542198 36.6406967,40.5373407 L34.3982145,38.3373407 C33.7732466,37.7242124 33.7732466,36.7329305 34.3982145,36.1198022 L40.6361906,30 L34.3982145,23.8801978 C33.7732466,23.2670695 33.7732466,22.2757876 34.3982145,21.6626593 L36.6406967,19.4626593 C37.2694878,18.8457802 38.2918451,18.8457802 38.9206362,19.4626593 Z" id="path-3"></path>
+        <filter x="-36.5%" y="-34.1%" width="173.0%" height="222.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product_2" transform="translate(-945.000000, -2484.000000)">
+            <g id="code-ico" transform="translate(945.000000, 2484.000000)">
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="0" y="0" width="61" height="60" rx="4.8"></rect>
+                <g id="Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

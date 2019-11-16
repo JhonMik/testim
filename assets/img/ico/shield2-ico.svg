@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="25px" viewBox="0 0 22 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>Battle-tested</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="28.8741562%" y1="12.0214844%" x2="64.9548438%" y2="86.0888672%" id="linearGradient-1">
+            <stop stop-color="#7093FF" offset="0%"></stop>
+            <stop stop-color="#3D5AFE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Only-testim" transform="translate(-674.000000, -183.000000)">
+            <g id="Battle-tested" transform="translate(674.000000, 183.000000)">
+                <path d="M2.48572297,1.73396756 C5.31201033,0.577989187 8.1446502,0 10.9836426,0 C13.8254612,0 16.6674466,0.579140529 19.5095989,1.73742159 C21.015514,2.35113818 22,3.81545397 22,5.44162381 L22,14.4911876 C22,15.7192635 21.43587,16.8792763 20.46987,17.6375732 L12.3156112,24.0385558 C11.5953563,24.6039461 10.5831303,24.6079972 9.85837301,24.0483901 L1.55539365,17.6374084 C0.574455531,16.8799964 -2.0686732e-15,15.7106735 0,14.4713541 L0,5.43627041 C-1.01677044e-05,3.81193565 0.982281981,2.3488892 2.48572297,1.73396756 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                <path d="M9,13.9726118 L9,14 C9,14.5522847 9.44771525,15 10,15 L13,15 C13.5522847,15 14,14.5522847 14,14 L14,6.98440803 C14,6.44073449 13.5592655,6 13.015592,6 C12.4719184,6 12.0311839,6.44073449 12.0311839,6.98440803 L12.0311839,12.9726118 L12.0311839,12.9726118 L10,12.9726118 C9.44771525,12.9726118 9,13.420327 9,13.9726118 Z" id="Path-8" fill="#FFFFFF" fill-rule="nonzero" transform="translate(11.500000, 10.500000) rotate(-315.000000) translate(-11.500000, -10.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

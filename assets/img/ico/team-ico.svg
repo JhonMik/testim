@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="80px" viewBox="0 0 85 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>team-ico</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="31.2396526%" y2="92.9424157%" id="linearGradient-1">
+            <stop stop-color="#EAECEE" offset="0%"></stop>
+            <stop stop-color="#D1D4D8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="31.6291873%" y1="12.0214844%" x2="63.0045757%" y2="86.0888672%" id="linearGradient-2">
+            <stop stop-color="#7093FF" offset="0%"></stop>
+            <stop stop-color="#3D5AFE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M24.8060033,34.8 L27.5382954,34.8 C36.0634854,34.8 43.8286739,39.7029425 47.4939394,47.4 L49.1360466,50.8484251 C50.6556994,54.0396961 49.3005852,57.8586545 46.1093142,59.3783073 C45.2497775,59.7876105 44.3097541,60 43.3577393,60 L6.92228934,60 C3.38766694,60 0.522289335,57.1346224 0.522289335,53.6 C0.522289335,52.4862276 0.812947366,51.391736 1.36553323,50.4247108 L3.09393939,47.4 C7.54623815,39.6084772 15.8321083,34.8 24.8060033,34.8 Z M24.6939394,0 C31.9840981,-1.33918043e-15 37.8939394,5.9098413 37.8939394,13.2 L37.8939394,15.6 C37.8939394,22.8901587 31.9840981,28.8 24.6939394,28.8 C17.4037807,28.8 11.4939394,22.8901587 11.4939394,15.6 L11.4939394,13.2 C11.4939394,5.9098413 17.4037807,1.33918043e-15 24.6939394,0 Z" id="path-3"></path>
+        <filter x="-39.6%" y="-17.5%" width="179.2%" height="165.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="9" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Careers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="careers" transform="translate(-536.000000, -1725.000000)">
+            <g id="team-ico" transform="translate(545.000000, 1726.000000)">
+                <path d="M56.5623315,40.8 L58.8674722,40.8 C65.3820339,40.8 71.3209887,44.531033 74.1484858,50.4 L74.9045998,51.9694475 C76.2469569,54.7557454 75.0764116,58.1026816 72.2901137,59.4450386 C71.5319233,59.8103126 70.7011536,60 69.8595612,60 L44.0794791,60 C40.9866845,60 38.4794791,57.4927946 38.4794791,54.4 C38.4794791,53.4158916 38.7388149,52.4491604 39.2313641,51.5971835 L39.9234858,50.4 C43.3581462,44.4589657 49.6999135,40.8 56.5623315,40.8 Z M56.5734858,12 C62.8695319,12 67.9734858,17.1039539 67.9734858,23.4 L67.9734858,25.8 C67.9734858,32.0960461 62.8695319,37.2 56.5734858,37.2 C50.2774396,37.2 45.1734858,32.0960461 45.1734858,25.8 L45.1734858,23.4 C45.1734858,17.1039539 50.2774396,12 56.5734858,12 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

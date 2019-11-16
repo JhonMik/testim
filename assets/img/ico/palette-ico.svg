@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="75px" viewBox="0 0 74 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>palette-ico</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="18.3948864%" y2="92.9424157%" id="linearGradient-1">
+            <stop stop-color="#EAECEE" offset="0%"></stop>
+            <stop stop-color="#D1D4D8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="22.7197266%" y1="16.1241018%" x2="69.3115234%" y2="82.1903784%" id="linearGradient-2">
+            <stop stop-color="#7093FF" offset="0%"></stop>
+            <stop stop-color="#3D5AFE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M38,21 C34.1340068,21 31,17.8659932 31,14 C31,10.1340068 34.1340068,7 38,7 C41.8659932,7 45,10.1340068 45,14 C45,17.8659932 41.8659932,21 38,21 Z M57,34 C53.1340068,34 50,30.8659932 50,27 C50,23.1340068 53.1340068,20 57,20 C60.8659932,20 64,23.1340068 64,27 C64,30.8659932 60.8659932,34 57,34 Z M17,34 C13.1340068,34 10,30.8659932 10,27 C10,23.1340068 13.1340068,20 17,20 C20.8659932,20 24,23.1340068 24,27 C24,30.8659932 20.8659932,34 17,34 Z M21,58 C17.1340068,58 14,54.8659932 14,51 C14,47.1340068 17.1340068,44 21,44 C24.8659932,44 28,47.1340068 28,51 C28,54.8659932 24.8659932,58 21,58 Z" id="path-3"></path>
+        <filter x="-32.4%" y="-18.6%" width="164.8%" height="168.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="8" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Careers" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="careers" transform="translate(-945.000000, -1366.000000)">
+            <g id="palette-ico" transform="translate(945.000000, 1366.000000)">
+                <path d="M73.549493,42.7907742 C72.654285,45.9943852 70.6170075,51.1080706 64.4135742,50.7270508 C54.248291,50.7270508 47.7524414,50.7270508 46.7236328,50.7270508 C45.5766602,50.7270508 40.1464844,52.6767578 43.8740234,59.9633789 C48.1656647,65.2642105 50.1303385,71.5372117 43.4350643,73.4423749 C41.3451738,73.8088801 39.1949061,74 37,74 C16.5654643,74 0,57.4345357 0,37 C0,16.5654643 16.5654643,0 37,0 C57.4345357,0 74,16.5654643 74,37 C74,38.9700096 73.846039,40.9040597 73.549493,42.7907742 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

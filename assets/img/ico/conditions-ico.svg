@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="79px" height="62px" viewBox="0 0 79 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>conditions-ico</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="39.2727427%" x2="18.3948864%" y2="59.2130869%" id="linearGradient-1">
+            <stop stop-color="#EAECEE" offset="0%"></stop>
+            <stop stop-color="#D1D4D8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="22.7197266%" y1="48.9189938%" x2="69.3115234%" y2="51.0272199%" id="linearGradient-2">
+            <stop stop-color="#7093FF" offset="0%"></stop>
+            <stop stop-color="#3D5AFE" offset="100%"></stop>
+        </linearGradient>
+        <path d="M9.4,38.4 C10.2836556,38.4 11,39.1163444 11,40 L11,47.8 C11,48.6836556 10.2836556,49.4 9.4,49.4 L1.6,49.4 C0.7163444,49.4 5.5230581e-16,48.6836556 0,47.8 L0,40 C3.3587261e-16,39.1163444 0.7163444,38.4 1.6,38.4 L9.4,38.4 Z M63.6,38.4 C64.4836556,38.4 65.2,39.1163444 65.2,40 L65.2,47.8 C65.2,48.6836556 64.4836556,49.4 63.6,49.4 L20.8,49.4 C19.9163444,49.4 19.2,48.6836556 19.2,47.8 L19.2,40 C19.2,39.1163444 19.9163444,38.4 20.8,38.4 L63.6,38.4 Z" id="path-3"></path>
+        <filter x="-20.7%" y="-68.2%" width="141.4%" height="345.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product_2" transform="translate(-938.000000, -2101.000000)">
+            <g id="conditions-ico" transform="translate(945.000000, 2101.000000)">
+                <path d="M9.4,19.2 C10.2836556,19.2 11,19.9163444 11,20.8 L11,28.6 C11,29.4836556 10.2836556,30.2 9.4,30.2 L1.6,30.2 C0.7163444,30.2 5.5230581e-16,29.4836556 0,28.6 L0,20.8 C3.3587261e-16,19.9163444 0.7163444,19.2 1.6,19.2 L9.4,19.2 Z M63.6,19.2 C64.4836556,19.2 65.2,19.9163444 65.2,20.8 L65.2,28.6 C65.2,29.4836556 64.4836556,30.2 63.6,30.2 L20.8,30.2 C19.9163444,30.2 19.2,29.4836556 19.2,28.6 L19.2,20.8 C19.2,19.9163444 19.9163444,19.2 20.8,19.2 L63.6,19.2 Z M9.4,0 C10.2836556,1.06660814e-15 11,0.7163444 11,1.6 L11,9.4 C11,10.2836556 10.2836556,11 9.4,11 L1.6,11 C0.7163444,11 5.5230581e-16,10.2836556 0,9.4 L0,1.6 C3.3587261e-16,0.7163444 0.7163444,6.0641411e-16 1.6,0 L9.4,0 Z M63.6,0 C64.4836556,2.8176431e-16 65.2,0.7163444 65.2,1.6 L65.2,9.4 C65.2,10.2836556 64.4836556,11 63.6,11 L20.8,11 C19.9163444,11 19.2,10.2836556 19.2,9.4 L19.2,1.6 C19.2,0.7163444 19.9163444,6.0641411e-16 20.8,0 L63.6,0 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="url(#linearGradient-2)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
